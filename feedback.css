@@ -1,0 +1,40 @@
+.heading{
+	font-size: 50px;
+	background-color: #d17845;
+	text-align: center;
+}
+.left{
+	float: left;
+	background-color: #f2af57;
+	width: 20%;
+}
+.left li{
+	padding-bottom: 18.8%;
+	padding-left: 30%;
+	height: 50%;
+}
+.left a{
+	text-decoration: none;
+	padding-top: 100%;
+}
+.right{
+	float: right;
+	background-color: #edc085;
+	width: 80%;
+}
+a:hover{
+	color: purple;
+}
+.f{
+	margin-top: 28px;
+}
+.b {
+	background-color: #d17845;
+	text-align: center;
+	padding: 20px;
+}
+.b a{
+	color: red;
+	text-align: center;
+	padding-left: 150px;
+}
